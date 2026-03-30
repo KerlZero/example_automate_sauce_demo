@@ -1,0 +1,23 @@
+{
+  "name": "example_automate_sauce_demo",
+  "version": "1.0.0",
+  "description": "for interviews Prodigy/Ascend",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KerlZero/example_automate_sauce_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KerlZero/example_automate_sauce_demo/issues"
+  },
+  "homepage": "https://github.com/KerlZero/example_automate_sauce_demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
